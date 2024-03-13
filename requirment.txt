@@ -1,0 +1,6 @@
+open ai
+pdfminer2
+pdfplumber
+flask
+from flask we need
+Flask, render_template, request
